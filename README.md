@@ -24,7 +24,7 @@ The dashboard was built using the following tools and technologies:
 
 ## 📂 Data Source
 
-**Source:** Sample Superstore Dataset (widely used in BI and analytics education)
+**Source:** Kaggle Sample Superstore Dataset (widely used in BI and analytics education)
 
 Data covers retail transactions including order details, customer segments, product categories, shipping modes, and geographic distribution across US states and regions — spanning the years 2019 and 2020.
 
