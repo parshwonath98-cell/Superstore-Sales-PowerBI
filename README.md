@@ -89,11 +89,6 @@ Compares the three main product categories — Office Supplies (0.64M), Technolo
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Preview](your-screenshot-filename.png)
-
----
 
 ## 🚀 How to Use
 
